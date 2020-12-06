@@ -39,7 +39,7 @@ birthdays = []
 has_duplicate = []
 
 # Anzahl der Wiederholungen
-r = 100000000
+r = 10000000
 
 # Ausgabe einer Statusmeldung
 print("Running simulation...")
