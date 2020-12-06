@@ -6,7 +6,7 @@ seed(1)
 # Summe aller Wahrscheinlichkeiten
 ratio_total = 0
 
-# Array um die Zustände der Zehn Personen zu speichern, 0 = nicht infiziert, 1 = infiziert
+# Array um die Zustände der zehn Personen zu speichern, 0 = nicht infiziert, 1 = infiziert
 infected = []
 
 # Anzahl der Wiederholungen
@@ -43,5 +43,5 @@ for i in range (r):
     # Array leeren
     infected = []
 
-# Ausgabe des Quotienten aus der SUmme und den Wiederholungen
+# Ausgabe des Quotienten aus der Summe und den Wiederholungen
 print(ratio_total/r)
