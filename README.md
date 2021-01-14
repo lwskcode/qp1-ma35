@@ -1,2 +1,2 @@
-# qp1-ma35
+# mathe-lk
 Sammlung aller Programme die in Verbindung mit meinem Mathe Leistungskurs entstanden sind.
